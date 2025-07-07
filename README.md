@@ -3,6 +3,9 @@
 
 ![Vrinda Store Report Pdf](https://github.com/user-attachments/assets/4aa5459e-fd8b-4a26-9c03-145bef467796)
 
+![Agr Group Wise Count of Orders](https://github.com/user-attachments/assets/fbe75123-acb5-4377-a1aa-d07f04f55a6a)
+
+
 
 🛍️ Vrinda Store – Data Introduction Summary 
 
