@@ -4,6 +4,14 @@
 ![Vrinda Store Report Pdf](https://github.com/user-attachments/assets/4aa5459e-fd8b-4a26-9c03-145bef467796)
 
 ![Agr Group Wise Count of Orders](https://github.com/user-attachments/assets/fbe75123-acb5-4377-a1aa-d07f04f55a6a)
+![Top 10 States](https://github.com/user-attachments/assets/cffbf30e-41e4-44c6-a45a-1a5fb89f6bba)
+![Order Status](https://github.com/user-attachments/assets/64f7b3e8-f37e-483e-b7c0-f82b7f22eee9)
+![Sum of Orders Gender Wise ](https://github.com/user-attachments/assets/676e62b2-e7d5-4a13-a4df-d46afb759512)
+![Montly Sales and Count of Orders](https://github.com/user-attachments/assets/e96b6472-b616-4471-aa89-678843e6ac60)
+
+
+
+
 
 
 
